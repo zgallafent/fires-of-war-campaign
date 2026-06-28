@@ -1,0 +1,13 @@
+The others had just finished fighting some animated statues either in or near the study in [[Bridgewater]] when the session started.  
+
+---
+
+We went down the final hallway and found the [[Izuri Gate System|gate]] room. After inspecting the walls and ceilings for clues, we were able to deduce the code to activate the gate and turned it on.
+
+[[Aetheleron]], [[Ronald Daeclan|Ronald]], and [[Hazelmere]], a group of [[Anachreon (nation)|Anachreon]] mages, made themselves known. They had been watching us from just being the doorway to the gate room. [[Collins de Jarrag Iolaire|Collins]] shut off the gate. Aethelerom told the party that they didn't want any conflict and had just here to study the gate. [[Gurlurek]] was convinced the mages were going to use it as a weapon to conquer the other nations. Aetheleron pointed out that Gurlurek had been saying they needed to take the secret of the gate to the grave, meaning he was going to kill everyone. The others weren't sure who to believe, but Gurlurek charged Aetheleron and forced a fight.
+
+The mages focused our attacks on Gurlurek. We wanted to deescalate, still but when Lef tried to stop Gurlurek, he killed Lef. Then everyone turned against Gurlurek. Ronald panicked and hit the entire both us and the mages with burning hands. Then Gurlurek killed him, so Aetheleron hit everyone in the room with a fireball. This left Gurlurek dead, Collins and [[Ghithgod]] unconscious, and the rest of us badly hurt. Aetheleron seemed crazed and murderous, so [[Marlamin]] turned back on the gate for the party to escape. [[Hank]] healed Ghithgod and Hazelmere healed Collins, then we all fled through the gate.
+
+When we arrived, the nausea nearly crippled us. Once we recovered, Collins grabbed Hazelmere. He didn't resist and dropped his weapon, then he and Marlamin talked Collins down to the point where Collins let Hazelmere go. Hazelmere introduced himself and explained his knowledge and experience with the gates. He told us about his theory on the [[Heavens Gate]] and how it might be able to end the war. Marlamin seemed to trust Hazelmere, but Collins didn't. Hand and Ghithgod were still unsure.
+
+However, we agreed that at least for now we all needed to focus on working together to figure out where we are and get back to somewhere we know. We had arrived in an unknown gate room with no knowledge of where the exit lead to. We decided to rest in the gate room for a while and study the engravings for hints at how the gate worked o where we were. Then, we'd try to find our way to the surface or try to go back through the gate as a last resort. We ended the session at the start of our rest after Hazelmere had set up an alarm on the exit and the rest of us decided on a watch.

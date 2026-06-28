@@ -1,0 +1,1 @@
+The Thalassic Wing is a college in the [[Arcaneum]] focused on water magic, tidal studies, and river-ice manipulation. They have strong ties with the [[Concordant Fraternity of Riverwardens]]. Their college tower holds enchanted locks and weather-controlling experiments.

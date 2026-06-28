@@ -1,0 +1,1 @@
+The Forge Collegium is a college in the [[Arcaneum]] focused on pyromancy, metallurgy, and enchantments that strengthen steel. People say their halls have ever-burning forges tended by mage-smiths. They have strong ties with the [[Order of Chain and Flame]].

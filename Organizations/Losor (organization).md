@@ -1,0 +1,1 @@
+The Losor is primarily a nationalist movement among rock gnomes in [[Zemvalda]] fighting for independence. It draws its roots from the [[Losor (nation)|Losor nation]]. A secondary objective of the Losor is to shift gnomish allegiance away from the [[Anachreon (nation)|Anachreon]] towards the [[Vidanya]].

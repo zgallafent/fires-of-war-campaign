@@ -1,0 +1,1 @@
+Dromos is the third planet in the solar system. A symbol for Dromos is used as part of the [[Izuri Gate System]].

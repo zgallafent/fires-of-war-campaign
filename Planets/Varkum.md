@@ -1,0 +1,1 @@
+Varkum is the fifth planet in the solar system. A symbol for Varkum is used as part of the [[Izuri Gate System]].

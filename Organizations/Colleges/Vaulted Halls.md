@@ -1,0 +1,1 @@
+The Vaulted Halls is a college in the [[Arcaneum]] focused on transmutation, alchemy, and coin enchantment (anti-counterfeiting wards, tracking glyphs). They have strong ties with the [[League of Salt and Silver]].

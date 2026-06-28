@@ -1,0 +1,1 @@
+The Granary Sanctum is a college in the [[Arcaneum]] focused on preservation magics, growth charms, and pest-wards. Their granaries are sealed by runes older than living memory. They have strong ties with the [[Tribunal of the Golden Sheaf]]

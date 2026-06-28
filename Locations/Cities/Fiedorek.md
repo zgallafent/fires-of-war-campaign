@@ -1,0 +1,7 @@
+---
+tags:
+  - anachreon
+---
+Fiedorek is an island and town on the coast of [[Skjoldhelm]]. The volcano has served as a place of significance for thousands of years. It is considered a sacred site by the dwarves and has been a worship site for various gods throughout history and holds a lot of religious significance for many groups. In more recent history the dwarves turned it into a Straag, or fortress. Over time various other races moved in until it became a mix of many different groups. Around 100 years ago, the [[Anachreon (nation)]]  conquered it. Since then they have driven out the non-human races.
+
+Around 20 years ago, the Anachreon discovered the ruins of an ancient city that had been destroyed and buried. I, as part of a team led by [[Aetheleron]], made two significant discoveries. The first is the [[Last Saga of The Izuri]], which details the destruction of the Izure. Along with that inscription were various murals of ancient conquests. The second discovery, buried even below that, was a gate made of [[fiedorum]]. The gate is 15 feet tall and 8 feet wide. It was damaged when it was buried, but the material has sparked a fervor of research. An inscription found at a dig in the [[Vichon Order]] describes a key that should be able to control the gate.

@@ -1,0 +1,1 @@
+Sylva is the second planet in the solar system. A symbol for Sylva is used as part of the [[Izuri Gate System]].

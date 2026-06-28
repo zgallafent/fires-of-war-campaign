@@ -1,0 +1,1 @@
+The Verdant Hall is a college in the [[Arcaneum]] focused on nature magic, preservation spells, and the construction of living wooden architecture. They have strong ties with the [[Syndicate of Timber and Crown]].

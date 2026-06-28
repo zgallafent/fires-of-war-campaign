@@ -1,0 +1,1 @@
+The Heavens Gate is a gate in the [[Izuri Gate System]], possibly the most significant gate in all of [[Izure]]. The [[Last Saga of The Izuri]] says "The Heavens Gate, that great gate was even buried."

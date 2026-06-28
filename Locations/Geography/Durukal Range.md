@@ -1,0 +1,3 @@
+The Durukal Range is a mountain range in eastern [[Anchara]]. It stretches the entirety of the content north to south, forming the border between the [[Vidanya]] and [[Dor Keletar]].
+
+The Durukal Range serves as a natural border between the eastern and western parts of Anchara, reinforced by strict Vidanya patrols that block anyone from passing through the range. Because of this, travel between across the mountain range is non-existent.

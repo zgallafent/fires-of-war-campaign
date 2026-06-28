@@ -1,0 +1,1 @@
+Anchara is all of the known world. It includes all of the land from the western coast of the [[Iron Consortium]] to the eastern mountains of the [[Vidanya]].

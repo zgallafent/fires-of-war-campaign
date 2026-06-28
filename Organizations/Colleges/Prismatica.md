@@ -1,0 +1,1 @@
+The Prismatica is a college in the [[Arcaneum]] focused on perfecting spyglasses, crystal orbs, and stained-glass wards that fracture hostile magic. Their research fills the college with kaleidescopic light. They have strong ties with the [[Conclave of the Amberglass]].

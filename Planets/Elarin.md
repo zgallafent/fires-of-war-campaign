@@ -1,0 +1,1 @@
+Elarin is the first planet in the solar system. A symbol for Elarin is used as part of the [[Izuri Gate System]].

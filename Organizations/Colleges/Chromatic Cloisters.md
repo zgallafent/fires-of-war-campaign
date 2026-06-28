@@ -1,0 +1,1 @@
+The Chromatic Cloisters is a college in the [[Arcaneum]] focused on illusion magic, dye-alchemy, and spell-threads that resist elements. Some whisper they pioneered cloak-woven wards against divination. They have strong ties with the [[Collegium of Veilwrights and Mantlers]].

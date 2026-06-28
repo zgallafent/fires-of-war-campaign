@@ -1,0 +1,1 @@
+The Bastionum is a college in the [[Arcaneum]] focused on geomancy, stone-shaping, and the blending of magic with mechanics. Their halls echo with testing of new siege designs. They have strong ties with the [[Bastion Collegium of Master Engineers]].

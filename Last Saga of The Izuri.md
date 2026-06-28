@@ -1,0 +1,1 @@
+The Last Saga of the Izuri is an inscription I helped discover at an [[Anachreon (nation)]] archaeological site led by [[Aetheleron]] on [[Fiedorek]], engraved on a stone pillar. It is inscribed in four languages. Two are indecipherable, another a form of draconic, and the third is a form of elvish. It describes the fall of the Izure empire.
