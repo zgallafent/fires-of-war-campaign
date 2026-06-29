@@ -1,4 +1,8 @@
-The League of Salt and Silver is a guild of bankers and miners of silver and salt in the [[Anachreon (nation)]] and a member guild of the [[Council of Eight]]. They came to power after crushing the smuggling cartels in the Iron Consortium over two centuries ago, which allowed them to monopolize silver and salt trade. Their greatest achievement is receiving the right to mint Anachreon crownmarks.
+---
+aliases:
+  - League
+---
+The League of Salt and Silver is a guild of bankers and miners of silver and salt in the [[Anachreon (nation)|Anachreon]] and a member guild of the [[Council of Eight]]. They came to power after crushing the smuggling cartels in the Iron Consortium over two centuries ago, which allowed them to monopolize silver and salt trade. Their greatest achievement is receiving the right to mint Anachreon crownmarks.
 
 They're associated with the [[Vaulted Halls]] in the [[Arcaneum]].
 

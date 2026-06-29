@@ -1,5 +1,4 @@
 ---
-tags:
 aliases:
   - Arni
   - Helmi

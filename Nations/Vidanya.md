@@ -7,18 +7,17 @@ tags:
 The Vidanya, formally known as the United Volodanya, is a country located in eastern [[Anchara]]. It borders the [[Anachreon (nation)|Anachreon]] and [[Iron Consortium]] to the west, [[Zemvalda]] to the north, [[Zyvonia]] to the south, and the [[Durukal Range]] to the east. It is the largest country in Anchara by land mass and population.
 
 Before it was a single nation, the Vidanya was originally seven independent elven kingdoms. These kingdoms united together to defend their lands from the other nations in Anchara, as well as to push for further control over the continent. They are governed by a congress with a ruling council of seven, which is overseen by one supreme leader.
-# Geography
+## Geography
 The Vidanya is located in the steppes throughout the northern and eastern regions of Anchara. This region is full of mountains, rivers, and forest valleys.
-# Culture
+## Culture
 The culture of the Vidanya is largely defined by the difficult, mountains terrain. Their society is divided up into independent clans and villages, each with their own representation.
 
 Because of the land's inhospitality towards traditional extraction, it remains largely untouched with no heavy industry. The people of the Vidanya have a high respect for their relationship with the land.
 
 There are a few highly traditional human kingdoms within the Vidanya.
-# Magic
+## Magic
 The Vidanyan approach to magic is led by their profound emphasis on the balance of the weave.
-
-# Military
+## Military
 They use magical creatures as air support in combat. While they have a greater air fleet than the Iron Consortium, they are greatly surpassed by the Anachreon.
 
 ---

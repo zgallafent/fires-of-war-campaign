@@ -4,13 +4,13 @@ Ghithgod was a member of the Consortium raiding party, led by [[Gurlurek]], that
 
 The combination of Lef's death in the battle at Bridgewater and [[Marlamin]]'s [[02 - Death Beyond the Gate|death]] shortly after we're difficult for Ghithgod to handle. He committed to joining Collins on his quest to bring Marlamin back to life at any cost, which we barely [[07 - Victims, Visions, And Vitals|accomplished]].
 
-# Player Relationship
-## Affection
+## Player Relationship
+### Affection
 **5/6**
 Ghithgod was clearly reluctant about Hazelmere after the battle at Bridgewater. However, he seemed to quickly accept Hazelmere's overtures as they made their way to Wycrof. While they certainly haven't spent much time together alone, Hazelmere is confident he could at least call Ghithgod a friend.
-## Respect
+### Respect
 **5/6**
 The Nattevagten were only a horror story, until suddenly they were real and trying to kill the Kivipuros. Hazelmere wouldn't want to cross anyone that could down a bogeyman like Ghithgod had.
-## Trust
+### Trust
 **6/6**
 Ghithgod never seemed to be the most expressive, but he was never subdued about showing his dedication to his friends. Ghithgod had accepted Hazelmere into the group; the only way Hazelmere would lose that confidence would be through his own mistakes.

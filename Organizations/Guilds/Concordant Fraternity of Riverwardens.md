@@ -1,4 +1,8 @@
-The Concordant Fraternity of Riverwardens is a guild of fishers, ferrymen, and other naval trades in the [[Anachreon (nation)]] and a member guild of the [[Council of Eight]]. They gained significance through the [[Canal Works]]. They now collect tolls and tariffs on trade through the canals. They use militia-like enforcers to keep order on the waters, though many question whether that's a good thing.
+---
+aliases:
+  - Riverwardens
+---
+The Concordant Fraternity of Riverwardens is a guild of fishers, ferrymen, and other naval trades in the [[Anachreon (nation)|Anachreon]] and a member guild of the [[Council of Eight]]. They gained significance through the [[Canal Works]] in 368 [[Nova Aetas|NA]]. They now collect tolls and tariffs on trade through the canals. They use militia-like enforcers to keep order on the waters, though many question whether that's a good thing.
 
 They're associated with the [[Thalassic Wing]] in the [[Arcaneum]].
 

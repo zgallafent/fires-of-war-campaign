@@ -15,14 +15,14 @@ As part of the Kithenir's ongoing quest to rediscover the history of the [[Izure
 
 Harkus became well acquainted with [[Hazelmere]] while working at the Arcaneum. They first met when Harkus intervened in an argument between Hazelmere and another student.
 
-# Player Relationship
-## Affection
+## Player Relationship
+### Affection
 **4/6**
 While she was never officially an advisor to Hazelmere, Professor Harkus was one of the most supportive faculty through his time at the Arcaneum. She was one of the only people that always judged his work on its merit, not on his race. However, the level of decorum between students and professors that had to be respected, even when when Hazelmere was no longer truly a student in the Arcaneum, prevented him from calling ever really calling her a friend.
-## Respect
+### Respect
 **6/6**
 Hazelmere never had many opportunities to see Harkus actually work magic. However, in the rare glimpses he did see, she always had an aura of confidence that only ever came with complete mastery. Her theoretical knowledge was unparalleled, though she always kept what she knew close to her chest.
-## Trust
+### Trust
 **6/6**
 The Arcaneum is incredibly strict with state secrets. Rumors among the students always claimed that the Anachreon had ways of making sure you couldn't even remember their secrets if they thought you were overly permissive. When Hazelmere first joined the research team for the Izuri gates, he was told that sharing any of their research would be considered treason.
 

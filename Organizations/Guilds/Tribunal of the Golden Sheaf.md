@@ -1,5 +1,9 @@
-The Tribunal of the Golden Sheaf is an agricultural guild in the [[Anachreon (nation)]] and a member guild of the [[Council of Eight]]. During a famine 120 years ago, they used their surplus stored in magically preserved granaries as a bargaining chip, feeding the country in exchange for rights to storage and pricing. Some consider them the Anachreon's saviors, while others see them as hoarder. Their unmatched techniques and technologies made the Anachreon a breadbasket, which was a once a major source of trade for the country.
+---
+aliases:
+  - Tribunal
+---
+The Tribunal of the Golden Sheaf is an agricultural guild in the [[Anachreon (nation)|Anachreon]] and a member guild of the [[Council of Eight]]. During a famine 120 years ago, they used their surplus stored in magically preserved granaries as a bargaining chip, feeding the country in exchange for rights to storage and pricing. Some consider them the Anachreon's saviors, while others see them as hoarder. Their unmatched techniques and technologies made the Anachreon a breadbasket, which was a once a major source of trade for the country.
 
 They're associated with the [[Granary Sanctum]] in the [[Arcaneum]].
 
-They have complete control of the food supply in the [[Anachreon (nation)]], which often brings them into conflict with the [[League of Salt and Silver]]. Their conflict with the League often paralyzes the Council of Eight.
+They have complete control of the food supply in the Anachreon, which often brings them into conflict with the [[League of Salt and Silver]]. Their conflict with the League often paralyzes the Council of Eight.

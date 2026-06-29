@@ -8,14 +8,14 @@ Aetheleron is an [[Anachreon (nation)|Anachreonan]] researcher and my current ac
 
 As a member of the [[Prismatica]], Aetheleron began researching the gates in an effort to better understand [[Fiedorum|fiedorum]], since the gates are the only known objects made from it. The college hopes to studying it to find ways to improve the durability and inertness of alchemical glass.
 
-# Player Relationship
-## Affection
+## Player Relationship
+### Affection
 **3/6**
 Hazelmere has known Aetheleron for over two decades, first as an academic advisor and later as his lead researcher. Their relationship has always been one of master and apprentice, which had discouraged any kind of personal connection between the two.
-## Respect
+### Respect
 **5/6**
 Hazelmere has had plenty of opportunities to see how capable Aetheleron is first hand in the last 20 years. He can work magic that Hazelmere can barely comprehend and there are few mages in the entirety of the Arcaneum that can equal him in knowledge or skill. However, there is a small part of Hazelmere that wonders, for how willing Aetheleron is to pass off Hazelmere's research as his own, how much can Hazelmere trust that Aetheleron's accomplishments aren't "collaborations" as well.
-## Trust
+### Trust
 **2/6**
 Hazelmere was completely naive to the realities of the Arcaneum when he arrived. As Hazelmere's advisor and head research, Aetheleron has been one of the main mechanisms by which Hazelmere has been exposed to the machinations of the colleges.
 
