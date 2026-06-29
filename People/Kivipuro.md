@@ -4,6 +4,8 @@ aliases:
   - Helmi
   - Topi
   - Lumi
+  - Kivipuros
+  - Kivipuro family
 ---
 The Kivipuro family is a Gnomish family from [[Wycrof]]. They fled the city from fear of the ramping persecution towards non-humansb and have gone into hiding with the help of [[Ashara]].
 
