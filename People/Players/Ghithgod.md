@@ -1,4 +1,4 @@
-Ghithgod, Kyle's character, is a human berserker that, according to [[Brother Ghilain]], comes from [[Bourgand]]. He is close friends with [[Collins de Jarrag Iolaire]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]]. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]].
+Ghithgod, Kyle's character, is a human berserker that, according to [[Ghilain]], comes from [[Bourgand]]. He is close friends with [[Collins de Jarrag Iolaire]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]]. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]].
 
 Ghithgod was a member of the Consortium raiding party, led by [[Gurlurek]], that broke through Anachreon battle lines to enter their research site at [[Bridgewater]].
 

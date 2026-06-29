@@ -4,7 +4,18 @@ tags:
   - arcaneum
 ---
 Erik Skjoldson was an academic and teacher in my home town. He was born in [[Skjoldhelm]] and moved to the [[Anachreon (nation)|Anachreon]] as part of a collaborative research program between the two nations. During my studies at the academy in [[Wicksbend]] I worked frequently with him; with both of us being immigrants he knew how to help me with through the prejudices in the academic system. He eventually moved to the [[Arcaneum]] proper for research. I have encountered him a few times since then as I moved between research sites. He has still always been friendly, but also very careful to never do anything that might indicate disloyalty to the Anachreon. When I brought him my experimental research proposing a connection between the arcane gates of [[Izure]] and the celestial realms worshipped by the [[Vidanya]], he told me to leave and never mention it again.
-
+## Player Relationship
+### Affection
+**3/6**
+Unlike most professors at the Arcaneum, I know Professor Skjoldson before I arrived there. This meant we were able to form something of a friendship outside of the strictures of professor and student. However, he distanced himself from me in our later years at the Arcaneum, so we aren't as close now as we once were.
+### Respect
+**5/6**
+I've studied under Professor Skjoldson for decades. While he's not a powerful mage by any means, he in incredibly intelligent and a very skilled teacher. 
+### Trust
+**5/6**
+Professor Skjoldson was my mentor for many years and I would have trusted him with anything. He was the first person I approached about the Heavens Gate. However, something about the Arcaneum has changed him. He has loyalties and fears here that he didn't when we lived in Wicksbend.
+## Stories
+### Argument at the Arcaneum
 "Professor, do you have a minute?"
 Professor Skjoldson turned back from the bookshelf to look out his office for, where I was knocking at the threshold. "Hazelmere! My good boy, of course! Come in, come in."
 He placed a few books back on the shelf and sat behind his desk, shuffling vellum, papers, and folders aside to make space. I took the seat across from him.
