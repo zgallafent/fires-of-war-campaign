@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Professor Aetheleron
 tags:
   - anachreon
   - arcaneum

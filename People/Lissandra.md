@@ -2,10 +2,19 @@
 tags:
   - vidanya
 ---
-Lissandra is an Elven woman that I met through the [[Anachreon (nation)|Anachreonan]]-[[Vidanya|Vidanyan]] trade caravans that passed through my home. We became friends, though our contact was very intermittent. I would tell her about the things I was learning in academy when she visited and she would take me out to explore the seedier parts of the city I never visited. We never discussed her religion, but I always had a sense that she didn't approve of some of the research I did into the arcane. The first time we fought was when I cast a spell around her. The last time I saw her, shortly before the war broke, she told me she hoped we'd stay friends regardless of our nationalities.
-
----
-
+Lissandra is an Elven woman that I met through the [[Anachreon (nation)|Anachreonan]]-[[Vidanya|Vidanyan]] trade caravans that passed through my home. We became friends, though our contact was very intermittent. I would tell her about the things I was learning in academy when she visited and she would take me out to explore the seedier parts of the city I never visited. We never discussed her religion, but I always had a sense that she didn't approve of some of the research I did into the arcane. The first time we fought was over the environmental effects of some of the [[Anachreon (nation)|Anachreon's]] arcane inventions. The last time I saw her, shortly before the war broke, she told me she hoped we'd stay friends regardless of our nationalities.
+## Relationship
+### Affection
+**5/6**
+Lissadra and I were friends for a long time, so despite seeing each other so infrequently we were able to develop a close relationship. However, there were always some topics we weren't comfortable broaching.
+### Respect
+**2/6**
+I hold Lissandra in high regard, but as far as her skills and capabilities go, I've seen very little.
+### Trust
+**6/6**
+I would trust Lissandra with my life. She was one of my closest friends as a child and I don't think that bond has broken, despite our strained relationship.
+## Stories
+### Argument About Magic
 The first argument I ever had that involved religion nearly ended my friendship with Lissandra.
 
 It wasn't the first discussion I ever had about the gods. My parents both followed the gnomish tradition of worshipping the Lovers through the Sehamite Rites and practiced them with perfect consistency up to my father's death. I learned the core myths of the Stormbringer and the Moonweaver from them as a child. However, the allure of the arcane pulled me away from their beliefs, and over time I slowly adopted the irreligion of the Anachreon.

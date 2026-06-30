@@ -1,6 +1,8 @@
 ---
 aliases:
+  - Izuri Gate
   - Izuri Gates
+  - Gate
   - Gates
 tags:
   - izure
