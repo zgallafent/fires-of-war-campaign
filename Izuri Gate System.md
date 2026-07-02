@@ -9,6 +9,8 @@ tags:
 ---
 The Izuri Gate System is a method of transportation likely created by the [[Izure]]. They used it to travel between fixed gates buried deep underground. The [[Anachreon (nation)|Anachreon]] consider the existence of the gate system a state secret, though scholars in the [[Arcaneum]] have started to figure out that something is being covered up. Similarly, the [[Iron Consortium]] seem to be trying to silence anyone that knows about the gates.
 
+An inscription found at a dig in the [[Vichon Order]] describes a key that should be able to control the gate.
+
 The gates are large arches of [[Fiedorum|fiedorum]] measuring eight feet apart at the base and 15 feet tall at the peak. A functioning gate has a dial in front of it that is used to direct the destination. The gates can only turn on when a special key is inserted into the dial and stay open for a few seconds after the key is removed.
 
 The dials consist of three concentric rings with a space at the center for the key to slot into. The outer circle is engraved with constellations, the center circle is engraved with numbers, and the inner circle with planets. Both gates we've found have 13 numbers. However, The Bridgewater gate has eight constellations and four planets ([[Elarin]], [[Sylva]], [[Dromos]], and [[Varkum]]), while the Wycrof gate has seven constellations and seven planets.
