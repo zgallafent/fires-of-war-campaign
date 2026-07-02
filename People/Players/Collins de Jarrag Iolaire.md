@@ -1,6 +1,7 @@
 ---
 aliases:
   - Collins
+player: Kyle
 ---
 Collins de Jarrag Iolaire, Kyle's character, is a human warrior from the [[Vidanya]]. After being banished from his home, Collins has been traveling across [[Anchara]]. During that time he had befriended [[Ghithgod]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]], who became a second family to him. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]]. He has a strong dislike towards the [[Anachreon (nation)|Anachreon]].
 

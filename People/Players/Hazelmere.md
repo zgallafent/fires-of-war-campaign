@@ -1,3 +1,7 @@
+---
+player: Zach
+---
+
 Hazelmere is a rock gnome archaeologist and scholar from the [[Anachreon (nation)|Anachreon]]. He was a core member of the [[Arcaneum]] research team studying the [[Izuri Gate System]] and is travelling with us to discover what they are and how they work. 
 
 Hazelmere was born on the 14th of Inventum, 419 [[Nova Aetas|NA]], to Bolren and Lamara in [[Leovolan]]. Seven months later, on the 6th of Archivum, 420 NA, his parents left the city to escape the industrial lower class of the and moved with him to [[Wicksbend]].

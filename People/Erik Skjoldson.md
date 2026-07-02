@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Professor Skjoldson
 tags:
   - anachreon
   - arcaneum
