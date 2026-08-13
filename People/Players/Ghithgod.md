@@ -1,11 +1,13 @@
 ---
 player: Nate
 ---
-Ghithgod, Kyle's character, is a human berserker that, according to [[Ghilain]], comes from [[Bourgand]]. He is close friends with [[Collins de Jarrag Iolaire]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]]. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]].
+Ghithgod, Nate's character, is a human berserker from [[Morvuin's Gate]]. He is close friends with [[Collins de Jarrag Iolaire]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]]. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]].
 
 Ghithgod was a member of the Consortium raiding party, led by [[Gurlurek]], that broke through Anachreon battle lines to enter their research site at [[Bridgewater]].
 
 The combination of Lef's death in the battle at Bridgewater and [[Marlamin]]'s [[02 - Death Beyond the Gate|death]] shortly after we're difficult for Ghithgod to handle. He committed to joining Collins on his quest to bring Marlamin back to life at any cost, which we barely [[07 - Victims, Visions, And Vitals|accomplished]].
+
+According to [[Ghilain]], Ghithgod actually comes from [[Bourgand]].
 
 ## Player Relationship
 ### Affection

@@ -1,0 +1,1 @@
+Bhalish is a druid that lives in the [[Kharazul Pass]]. He was likely [[Ghithgod|Ghithgod's]] mentor. He is covered in druidic tattoos and wears his hair in druidic knots.

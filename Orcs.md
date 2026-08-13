@@ -1,6 +1,6 @@
 Orcs are a race of humanoids in [[Anchara]]. They traditionally live live a nomadic lifestyle. Orcs originate from [[Fierchland]] and [[Qiri'baq]].
 
-Orcs are a hardened and ferocious people that live close to their land. They generally live as hunter-gatherers, so they have few (if any) real cities. This close relationship with the land has lead to a strong druidic bent among orcs, with few clerics among them and no arcane magic-users. Their nomadic nature often extends to seafaring. Many orcs speak out a living whaling or hunting and their primary trade with other nations is whale oil and other sea goods.
+Orcs are a hardened and ferocious people that live close to their land. They generally live as hunter-gatherers, so they have few (if any) real cities. This close relationship with the land has lead to a strong druidic bent among orcs, with few clerics among them and no arcane magic-users. Their nomadic nature often extends to seafaring. Many orcs seek out a living whaling or hunting and their primary trade with other nations is whale oil and other sea goods. They have extensive knowledge of the seas around their homeland, including every kind of creature that lives in them.
 
 There's little, if any, central authority among the orcs. Generally knowledge is passed down from parent to child. Most maps of the region are personal maps, either hand draw by the user or their family, specially for what that orc needs it for.
 

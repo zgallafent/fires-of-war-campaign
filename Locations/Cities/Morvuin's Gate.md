@@ -1,0 +1,1 @@
+Morvuin's Gate is a city in the [[Kharazul Pass]].

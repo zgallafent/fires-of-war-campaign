@@ -1,0 +1,1 @@
+The Kharazul Pass is a small gap in the mountains between [[Straag Huldar]] and Grundholl through the mountains. [[Morvuin's Gate]] is located at the center of the pass.
