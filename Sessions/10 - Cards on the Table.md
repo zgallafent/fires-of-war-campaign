@@ -1,3 +1,7 @@
+---
+startdate: 11•CI•463•NA
+enddate: 11•CI•463•NA
+---
 After we [[09 - Anachreon Avenged|stepped into the circle]], it activated and sucked us through. We landed in a large room carved out from stone, a tiered amphitheatre with a teleportation circle in the center. Pillars formed a circle around the center of the room, and both the pillars and walls were completely covered in engraved in sigils. The room appeared very similar to the [[Izuri Gate System|gate rooms]] we've seen. There was a prominent inscription above the main entrance to the room that we recognized from the [[Last Saga of The Izuri]] and the [[Gate Almanac]]. People in hooded ceremonial clothes stood all around the room on the top tier of the amphitheater against the walls.
 
 Just after we arrived, the engravings all around the room along the top of the wall began to glow and a bright, warm light lit up the center of the room. It spread to fill the whole room and as it passed over us we felt magically compelled to speak the truth. [[Collins de Jarrag Iolaire|Collins]] reached for an arrow, but [[Hazelmere]] put a hand out to stop him. 

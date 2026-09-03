@@ -1,3 +1,7 @@
+---
+startdate: 04.•CI•463•NA
+enddate: 05•CI•463•NA
+---
 After our harrowing escape from [[Bridgewater]], we found ourselves in another cathedral-esque [[Izuri Gate System|gate room]]. There was vibration that filled the room and shook our bones. The room was completely silent and pristinely clean, as though held in stasis. We rested and slept in the room, though it was difficult to sleep.
 
 We each had vivid dreams as we sleep. Hazelmere dreamed of the [[Daeclan Family|Daeclans]] helping him and his mother escape the attack on [[Wicksbend]] in the hidden compartment of a carriage. Then, [[Ronald Daeclan]] helping him after some students knocked papers out of his hands at the academy. Then, [[Aetheleron]] accepting him and Ronald as assistants. Then, Ronald helping him climb a steep hill on an expedition.

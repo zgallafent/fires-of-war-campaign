@@ -1,3 +1,7 @@
+---
+startdate: 06•CI•463•NA
+enddate: 06•CI•463•NA
+---
 [[Hazelmere]] left on his own into town and went to the guild hall for the [[Bastion Collegium of Master Engineers|Bastion Collegium]], the [[Maison Forge]]. He approached a gnome clerk doing paperwork at one of the high counters for help. After verifying his Arcaneum scrip, the gnome takes Hazelmere's order for for clockwork parts and metal plates and refers him to the mercantile guild for any other general supplies. Hazelmere went there to buy axes, shovels and ropes.
 
 We left [[Ghilain|Brother Ghilain]]'s home with [[Reb Tevye]] and headed into [[Wycrof]]. At the gate, the guards stopped Reb Tevye and told him that he was responsible for making sure we behave. We otherwise didn't have any trouble entering the city. We first visited the baths on the south side of town, followed by a bowery, then a smithy that Reb Tevye trusts. He and [[Collins de Jarrag Iolaire|Collins]] hired the smithy to do some work on their gear. [[Hank]] asked if he works with any exotic materials; the smithy said that occasionally mithril or old relics pass through, but he mostly just works on creating or maintaining war gear. 

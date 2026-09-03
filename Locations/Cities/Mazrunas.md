@@ -1,0 +1,1 @@
+Mazrunas is a port city at the mouth of the [[Odera River]], between the [[Anachreon (nation)|Anachreon]] and the [[Vidanya]]. It was historically a gnomish town in [[Zemvalda]], but is currently contested territory.

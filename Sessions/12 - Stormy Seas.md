@@ -1,3 +1,7 @@
+---
+startdate: 24•CI•463•NA
+enddate: 05•IM•463•NA
+---
 As we at met in the city after a [[11 - Moments in Mystara|week apart]], [[Ghithgod]] and [[Marlamin]] mentioned that [[N'duka]] had put out a call for more crew. [[Caroline Harkus]] had told [[Hazelmere]] that he would need to leave for a week or so while the [[Kithenir]] conducted some rituals, so he was inclined to come. As Marlamin was walking away, [[Collins de Jarrag Iolaire|Collins]] had a brief vision of a woman walking next to him. She was barefoot with a dress and long, flowing golden hair. Collins stopped Hazelmere from leaving and described what he saw. Hazelmere recognized it as the classical depiction of the goddess [[Tymora]], who was often shown to have long golden hair to represent the many paths she walked. They both agreed they should go out on the sealing trip with Marlamin and Ghithgod to keep an eye on him. 
 
 Collins and Hazelmere approached N'duka together about joining the crew. He recognized Collins from his work with [[Cael]] on the docks handling lumber shipments and Hazelmere explained he was a skilled navigator, so N'duka accepted both of them on the trip. The ship departed the next day, sailing west and then south along the [[Thalassian Coast]]. N'duka had a handmade map with the seal hunting grounds marked out west of [[Straag Bohumin]], though his maps had few landmarks and fewer details. Hazelmere used the maps he had brought from the [[Arcaneum]] to help N'duka update his own maps, which cut over a day off of the travel time. 

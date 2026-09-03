@@ -1,3 +1,7 @@
+---
+startdate: 04•CI•463•NA
+enddate: 04•CI•463•NA
+---
 The others had just finished fighting some animated statues either in or near the study in [[Bridgewater]] when the session started.  
 
 ---

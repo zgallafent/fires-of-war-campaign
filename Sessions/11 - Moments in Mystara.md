@@ -1,3 +1,7 @@
+---
+startdate: 11•CI•463•NA
+enddate: 24•CI•463•NA
+---
 After [[10 - Cards on the Table|welcoming us]] to [[Mystara]], [[Caroline Harkus|Harkus]] offered us a place to stay in the [[Kithenir|kithenir]]. She and [[Hazelmere]] needed a few weeks to study the [[Gate Almanac|gate almanac]], so we would need to spend some time in Mystara waiting. She also offered to prepare some tokens for us to help with the local language, [[Thalassian Coast|Thalassian]], since maybe people here wouldn't speak common.
 
 [[Collins de Jarrag Iolaire|Collins]] asked Harkus if there were any weaponsmiths in the city he could commission and [[Marlamin]] asked if there are any shrines to [[Tymora]]. Harkus called for a young woman named [[Kirharra]] and asked her to be a guide for them in the city. She told Collins that she knew a blacksmith named [[Zaiha]] near the wharf that we could trust. She also told Marlamin that he could show anyone a symbol of Tymora and they would direct him, then sent us out into the city. Hazelmere stayed behind to start working with Harkus.

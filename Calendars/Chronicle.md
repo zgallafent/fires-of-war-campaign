@@ -1,11 +1,10 @@
-1.CI.463.NA - Battle at Bridgewater
-2.CI.463.NA - Marlamin killed by mimics, climb to surface from gate complex, arrive at Stone Choir, Brother Ghilain's test
-3.CI.463.NA - Prep in Wycrof, ambush (during night)
-4.CI.463.NA - Return to Stone Choir, crack artifact cases
-5.CI.463.NA - Depart stone choir
-6.CI.463.NA - Battle with hags, Lumi rescued
-7.CI.463.NA - Marlamin's resurrection, battle with Nattevagten
-8.CI.463.NA - Depart Ashara's home
+4.CI.463.NA - Battle at Bridgewater
+5.CI.463.NA - Marlamin killed by mimics, climb to surface from gate complex, arrive at Stone Choir, Brother Ghilain's test
+6.CI.463.NA - Prep in Wycrof. During night: ambush, return to Stone Choir, crack artifact cases
+7.CI.463.NA - Depart stone choir
+7.CI.463.NA - Battle with hags, Lumi rescued
+8.CI.463.NA - Marlamin's resurrection, battle with Nattevagten
+9.CI.463.NA - Depart Ashara's home
 10.CI.463.NA - Arrive in Wycrof, Jorren executed
 11.CI.463.NA - Arrive in Mystara, beginning of downtime
 18.CI.463.NA - Meet-up halfway through downtime

@@ -1,0 +1,1 @@
+Andoran is the governor of the [[Vidanya|Vidanyan]] frontier near the [[Iron Consortium]], where [[Collins de Jarrag Iolaire|Collins]]'s family lives.

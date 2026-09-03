@@ -1,3 +1,7 @@
+---
+startdate: 07•CI•463•NA
+enddate: 08•CI•463•NA
+---
 After the [[06 - Hags in Hiding|surviving hag disappeared]], we went into the tower. We found a druidic laboratory, full of caged and dissected animals, natural ingredients, and scrawled research notes. The hags were apparently researching the local flora and fauna, as if they had never seen it before. The next floor were their living quarters, where they kept a variety of different disguises and a pair of boots of elvenkind in a closet. We found a trapdoor going to an attic, where we could hear something moving. The desk had maps of the [[Cindervale]] and [[Wycrof]]. [[Reb Tevye]] told us he had heard rumors of creatures from other worlds appearing near Wycrof, though none of us had heard of or seen hags before. Based on the maps, they seemed to have come from somewhere between Wycrof and the Cindervale mountains.
 
 When we climbed up to the attic, we found a utility room with a large cistern of blood and sigils draw in blood on the floor. The body of a child was chained to a table, which had beendrained of blood and had organs removed. They had been dead for a few days. A young gnome girl cowered in one of the two cages. We broke open her cage, but she didn't respond to us until [[Hazelmere]] spoke to her in Gnomish. She told us that her name was [[Kivipuro|Lumi]] and she had been traveling from Wycrof with her family, [[Kivipuro|Arni, Helmi, and Topi]], to see [[Ashara]] when she was abducted.

@@ -1,3 +1,7 @@
+---
+startdate: 05•CI•463•NA
+enddate: 05•CI•463•NA
+---
 We were all pretty worn down after [[02 - Death Beyond the Gate|fighting off]] the mimics and gibbering mouther, so we took a bit of time to rest and patch up our wounds. After that, we all started working separately. [[Collins de Jarrag Iolaire|Collins]] wanted to bring [[Marlamin|Marlamin's]] body back home to bury, so he bound it up and got it ready to carry away. We still needed to find a way out of the [[Wycrof Gate|gate complex]], so [[Ghithgod]] started climbing the tunnel above the water reservoir to see if it turned out anywhere. [[Hank]] searched other parts of the complex to see if there was anything notable we missed and Hazelmere went back to studying the [[Izuri Gate System|gate]].
 
 After a while, Hazelmere had only understood just enough to know we'd need weeks to even start making progress on understanding how the gate works, so he rejoined the group. We all agreed we just need to get out and come back later. Ghithgod had gotten far enough up to know that the tunnel reaches the surface somewhere, but we didn't have enough rope to span the full length. We all tied on to the rope and climb together up to the surface.

@@ -4,7 +4,7 @@ tags:
 ---
 Ashara is a priest and a member of the [[Ember Veil]]. She helped the Ember Veil by guiding people that were being hunted by the [[Nattevagten]] into hiding, operating out of her hidden home in the [[Cindervale|Cindervale Mountains]].
 
-In 463 [[Nova Aetas|NA]], the [[Kivipuro|Kivipuro family]] arrived at her home looking to leave [[Wycrof]]. The next day, a band of adventures [[07 - Victims, Visions, And Vitals|brought her]] the [[05 - Ethically Acquired Antiquities|stolen]] [[Reliquary of Vestora]], which she used to help them resurrect their fallen friend [[Marlamin]]. Nattevagten operatives hunting the Kivipuros followed one of these two groups and discovered her home, so she has since gone into hiding along with the Reliquary.
+On 07•CI•463•[[Nova Aetas|NA]], the [[Kivipuro|Kivipuro family]] arrived at her home looking to leave [[Wycrof]]. The next day, a band of adventures [[07 - Victims, Visions, And Vitals|brought her]] the [[05 - Ethically Acquired Antiquities|stolen]] [[Reliquary of Vestora]], which she used to help them resurrect their fallen friend [[Marlamin]]. Nattevagten operatives hunting the Kivipuros followed one of these two groups and discovered her home, so she has since gone into hiding along with the Reliquary.
 
 ## Player Relationship
 ### Affection

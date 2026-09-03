@@ -1,3 +1,7 @@
+---
+startdate: 05•IM•463•NA
+enddate: 11•IM•463•NA
+---
 In a cabin high up in the [[Kharazul Pass]], [[Ghithgod]] sat beside a fire, reclining on furs as he practiced the somatics of a spell. [[Bhalish]], sat nearby on a wooden stool. He was alternating between writing on some paper with an ink pen, stirring a pot on the fire, and watching Ghithgod practice. Eventually, he said, "You keep pushing, Ghithgod. How does it feel?"
 
 Ghithgod replied that it was difficult. Bhalish encouraged him, saying that he needed to guide the magic instead of forcing it. Ghithgod tried the spell again and grew frustrated as it failed, but under Bhalish's finally managed to conjure a partial bloom.

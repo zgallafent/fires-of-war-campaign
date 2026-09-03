@@ -14,7 +14,7 @@ Known as Brother Ghilain in Wycrof, he is the caretaker of the [[Stone Choir]]. 
 
 Ghilain describes his role as "one who knows things." He has connections with [[Agathe Brelin]], [[Ashara]], [[Reb Tevye]], and [[Vieson]].
 
-In 463 [[Nova Aetas|NA]], he coordinated with a group of adventures to steal a collection of the religious artifacts, which he claims were originally taken from their rightful owners in Wycrof when it was conquered by the Anachreon. The adventurers intercepted the caravan of artifacts when they were being sent by [[Velmon Arguillan]] to the [[Arcaneum]] and delivered them to Ghilain.
+On 06•CI•463•[[Nova Aetas|NA]], he coordinated with a group of adventures to steal a collection of the religious artifacts, which he claims were originally taken from their rightful owners in Wycrof when it was conquered by the Anachreon. The adventurers intercepted the caravan of artifacts when they were being sent by [[Velmon Arguillan]] to the [[Arcaneum]] and delivered them to Ghilain.
 ## Player Relationship
 ### Affection
 **2/6**

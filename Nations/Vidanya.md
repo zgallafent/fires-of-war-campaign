@@ -1,6 +1,7 @@
 ---
 aliases:
   - United Volodanya
+  - Vidanyan
 tags:
   - vidanya
 ---
