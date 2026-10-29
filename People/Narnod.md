@@ -7,6 +7,6 @@ Hazelmere always felt my his research was too important to abandon.
 ## Stories
 ### Letter from Hazelmere
 _Excerpt of a letter written by Hazelmere for Narnod, dated 07•IV•439•NA_
->Lamara and I have arrived safely in [[Mazrunas]], with endless gratitude to the [[Daeclan Family|Daeclans]] for helping us escape with our lives. We've done our best to find passage to Tirnavis, but we've been told that Zemvalda is no longer accepting refugees, so no captain will take us. With the land route closed, I fear that we'll be forced to remain in the [[Anachreon (nation)|Anachreon]] for the foreseeable future. I should have listen to your warnings sooner. 
+>[[Lamara]] and I have arrived safely in [[Mazrunas]], with endless gratitude to the [[Daeclan Family|Daeclans]] for helping us escape with our lives. We've done our best to find passage to Tirnavis, but we've been told that Zemvalda is no longer accepting refugees, so no captain will take us. With the land route closed, I fear that we'll be forced to remain in the [[Anachreon (nation)|Anachreon]] for the foreseeable future. I should have listen to your warnings sooner. 
 >
 > Once my mother is settled here, I'll head west to the [[Arcaneum]]. [[Ronald Daeclan|Ronald]] assures me we can find a place there. As soon as the opportunity arise though, I'll take Lamara to Tirnavis so she can be with family. I don't know what they'll do without his body, but hopefully she can perform the rites there and finally find some peace.

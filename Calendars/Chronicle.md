@@ -16,3 +16,8 @@
 10.IM.463.NA - Ghithgod receives his tattoo
 11.IM.463.NA - Arrive in Mystara
 12.IM.463.NA - Teleport to Wycrof, meet Celeste Corbin
+13.IM.463.NA - Depart for Harthal Cross
+18.IM.463.NA - Attacked outside Harthal Cross
+19.IM.463.NA - Depart on barge heading south from Harthal Cross
+02.IN.463.NA - Leave barge to travel on foot
+05.IN.463.NA - Arrive in Catuprenna, fight the Wendigo

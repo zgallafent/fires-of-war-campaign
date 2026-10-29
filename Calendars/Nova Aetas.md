@@ -3,7 +3,7 @@ aliases:
   - NA
 resources: https://app.fantasy-calendar.com/calendars/a88d9c95ef32314f21c91fdff0e61c83
 ---
-The Nova Aetas, or the New Age, is the calendar system invented by the [[Anachreon (nation)|Anachreon]]. It went into effect in 134•NA. The calendar is designed to pull all of the year into order through even cycles of months, weeks, and days. The current date in the Nova Aetas system is 18•IM•463•NA.
+The Nova Aetas, or the New Age, is the calendar system invented by the [[Anachreon (nation)|Anachreon]]. It went into effect in 134•NA. The calendar is designed to pull all of the year into order through even cycles of months, weeks, and days. The current date in the Nova Aetas system is 05•IN•463•NA.
 
 ## Description
 As with all systems, a year in the Nova Aetas is 400 days long. Each year is divided into four seasons, each of which have four months of 25 days. In addition to months, the calendar has a system of 5-day weeks, which makes each month exactly five weeks long. Dates are written in the format DD•MM•YY•NA, with the day and year being numbers and months being the first two letters of the month (except Inventum, being IV, to avoid being the same as Inquiry). Formally, dates are given a leading 0 if less than 10.

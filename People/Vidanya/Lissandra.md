@@ -17,7 +17,7 @@ I would trust Lissandra with my life. She was one of my closest friends as a chi
 ### Argument About Magic
 The first argument I ever had that involved religion nearly ended my friendship with Lissandra.
 
-It wasn't the first discussion I ever had about the gods. My parents both followed the gnomish tradition of worshipping the Lovers through the Sehamite Rites and practiced them with perfect consistency up to my father's death. I learned the core myths of the Stormbringer and the Moonweaver from them as a child. However, the allure of the arcane pulled me away from their beliefs, and over time I slowly adopted the irreligion of the Anachreon.
+It wasn't the first discussion I ever had about the gods. My parents both followed the gnomish tradition of worshipping the Lovers through the [[Sehanine|Sehamite Rites]] and practiced them with perfect consistency up to my father's death. I learned the core myths of the [[Kord|Stormbringer]] and the Moonweaver from them as a child. However, the allure of the arcane pulled me away from their beliefs, and over time I slowly adopted the irreligion of the Anachreon.
 
 Gods were rarely discussed in Wicksbend and I don't believe there was a single public temple in the city, with it being an academy town. There were only two days each year where it broke into the public consciousness: the Caravan Festivals. The elves passing through the city always brought a fervor of discussion about their culture, their lands, and especially their faith. Strange and oblique to the Anachreonans, the city was always mystified by the rituals they would hold in the forests beyond the city.
 

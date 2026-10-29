@@ -1,0 +1,1 @@
+Nadar is [[Ghithgod]]'s sister. She is deaf because of a disease or plague she contracted when she was younger.

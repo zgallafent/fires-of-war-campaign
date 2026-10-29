@@ -9,6 +9,8 @@ The combination of Lef's death in the battle at Bridgewater and [[Marlamin]]'s [
 
 According to [[Ghilain]], Ghithgod actually comes from [[Bourgand]].
 
+Has a deaf sister named [[Nadar]].
+
 ## Player Relationship
 ### Affection
 **5/6**
