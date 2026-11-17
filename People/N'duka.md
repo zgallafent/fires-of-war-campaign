@@ -1,6 +1,6 @@
 N'duka is an orc captain from the so western orc lands. He regularly travels north to trade in [[Mystara]] and to hunt west of [[Straag Bohumin]].
 
-
+[[Hazelmere]] gave N'duka a [[14 - Back to Mystara, Back to Wycrof|sending stone]] he said could be used to contact him about the darkness in the south anytime before 11•RA•463•[[Nova Aetas|NA]].
 ## Relationship
 ### Affection
 **3/6**

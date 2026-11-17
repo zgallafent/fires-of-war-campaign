@@ -1,0 +1,21 @@
+---
+startdate: 05•IV•463•NA
+enddate: 05•IV•463•NA
+---
+Shortly after we [[17 - The Hunger and the Plague|entered]] [[Catuprenna]], in the final moments of twilight, the [[The Hunger#The Wendigo|Wendigo]] confronted us. It let out a cry that struck us with a supernatural fear and then charged. [[Aedric]] was the only one that managed to resist its cry and shot it with an arrow, then the Wendigo threw itself at him. Several flocks of crows took flight in response to the Wendigo's cry and attacked as well.
+
+[[Collins de Jarrag Iolaire|Collins]], [[Ghithgod]], and [[Marlamin]] were all driven back behind some trees for cover in fear of the Wendigo. As they fled, Marlamin blessed us and Ghithgod scattered one of the flocks of crows with his axe. Hazelmere was so overcome by the effects of the Wendigo's cry that he was left in a stupor with visions of his father's death in [[Wicksbend]].
+
+Rats swarmed up from the riverbanks, but Hazelmere threw off the vision in time to keep them off of him and then cast a warding spell on Aedric. Ghithgod and Marlamin overcame their fear enough to run forward and join Aedric fighting off the Wendigo. However, it finally caught ahold of Aedric and began tearing into his throat with its jaws. Collins, still stricken with fear, waded across the banks and took a few shots with his bow.
+
+Hazelmere began dumping casks of black powder out of his bag of holding next to the Wendigo while taking the occasional shot with a firebolt at it. Marlamin healed the gaping wound in Aedric's neck, but as Aedric retreated back from the Wendigo we could tell that there was still something affecting him. However, he joined Collins in firing on the Wendigo from a distance with his bow as Ghithgod began taking the brunt of its attacks.
+
+It looked as though we were finally wearing it down. However, as the last light of day finally disappeared, the Wendigo called another flock of crows to its side and let out a piercing howl, striking all of us again with fear. This time, Marlamin and Ghithgod are thrown into visions of their parents and sister respectively dying. The Wendigo took advantage of Ghithgod's stupor to tear into him, leaving him bleeding out on the ground. Hazelmere healed Ghithgod's wounds and then fled back from the Wendigo.
+
+We heard a lone crow cry out as it flew past us, then a battered [[Decimus Corvin|soldier]] came striding out of the darkness with a brilliant lantern hanging from a staff. As the light reached Collins and Marlamin, it banished the Wendigo's fear afflicting them. The man called out, "The time of the lovely crow has arrived!"
+
+Aedric drove off the last flock off crows, then he and Ghithgod once again turned their weapons on the Wendigo. However, it once again struck Ghithgod back down and he collapsed. Hazelmere threw his bag off holding to Collins, calling out "one more" as he readied a firebolt. The man ran forward with Collins and the bright lantern light began scalding the Wendigo, driving it back. Collins leaped onto the Wendigo with his swords and finally managed to cut it down, killing it off.
+
+Marlamin healed Ghithgod again and Hazelmere picked back up the powder casks, then we thanked the sister and asked why he was here. He told us that his name is Decimus Corvin and that [[Ajon Billius]] had sent him to help us. Hazelmere recognized that the was wearing the mark of the [[10th Legion]], which had been destroyed. He asked how Decimus had survived and he answered by saying that he was the lucky crow.
+
+Decimus led us up to a small house on a nearby hill, where we met Ajon. He invited us inside to join them for a meal. Marlamin when if he knew we were coming and Ajon said no. He then asked why we came, which Hazelmere answered saying [[Caroline Harkus]] had sent us. Ajon was surprised that she still remembered him. However, before the conversation could continue Ajon and Collins began to get heated about whether Marlamin was being respectful enough towards Ajon. Hazelmere tried to calm everyone down and said to at least wait until after we could eat. After cleaning up and having a small meal, Ajon asked Aedric to come close. He inspected the wounds the Wendigo left, he said that Aedric had the [[The Hunger|Hunger]].

@@ -3,7 +3,7 @@ aliases:
   - Collins
 player: Kyle
 ---
-Collins de Jarrag Iolaire, Kyle's character, is a human warrior from the [[Vidanya]]. After being banished from his home, Collins has been traveling across [[Anchara]]. During that time he had befriended [[Ghithgod]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]], who became a second family to him. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]]. He has a strong dislike towards the [[Anachreon (nation)|Anachreon]].
+Collins de Jarrag Iolaire (/'ʤeərːIg aɪːəʊː'leər/), Kyle's character, is a human warrior from the [[Vidanya]]. After being banished from his home, Collins has been traveling across [[Anchara]]. During that time he had befriended [[Ghithgod]], [[Hank]], [[01 - Escape from Bridgewater|Lef]], and [[Marlamin]], who became a second family to him. Though he isn't aligned with any particular nation or faction, he has taken part in battles on the side of the [[Iron Consortium]]. He has a strong dislike towards the [[Anachreon (nation)|Anachreon]].
 
 Collins was a member of the Consortium raiding party, led by [[Gurlurek]], that broke through Anachreon battle lines to enter their research site at [[Bridgewater]]. When we [[01 - Escape from Bridgewater|fled]] though the [[Izuri Gate System|gate]], he was the first to confront [[Hazelmere]] over his Anachreon allegiance and the most distrustful of him. 
 

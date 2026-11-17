@@ -3,7 +3,7 @@ aliases:
   - NA
 resources: https://app.fantasy-calendar.com/calendars/a88d9c95ef32314f21c91fdff0e61c83
 ---
-The Nova Aetas, or the New Age, is the calendar system invented by the [[Anachreon (nation)|Anachreon]]. It went into effect in 134•NA. The calendar is designed to pull all of the year into order through even cycles of months, weeks, and days. The current date in the Nova Aetas system is 05•IN•463•NA.
+The Nova Aetas, or the New Age, is the calendar system invented by the [[Anachreon (nation)|Anachreon]]. It went into effect in 134•NA. The calendar is designed to pull all of the year into order through even cycles of months, weeks, and days. The current date in the Nova Aetas system is 05•IV•463•NA.
 
 ## Description
 As with all systems, a year in the Nova Aetas is 400 days long. Each year is divided into four seasons, each of which have four months of 25 days. In addition to months, the calendar has a system of 5-day weeks, which makes each month exactly five weeks long. Dates are written in the format DD•MM•YY•NA, with the day and year being numbers and months being the first two letters of the month (except Inventum, being IV, to avoid being the same as Inquiry). Formally, dates are given a leading 0 if less than 10.
@@ -17,24 +17,24 @@ Each season, month, and weekday has a theme. The months are named for their them
 | Auctum   | Achievement |
 | Hibernum | Reflection  |
 
-| Month    | Season   | Theme          |
-| -------- | -------- | -------------- |
-| Scriptum | Vernum   | Writing        |
-| Numeris  | Vernum   | Mathematics    |
-| Archivum | Vernum   | Record Keeping |
-| Inquiry  | Vernum   | Investigation  |
-| Alchemia | Solis    | Transformation |
-| Astralis | Solis    | Astronomy      |
-| Magister | Solis    | Scholarship    |
-| Ordinis  | Solis    | Order          |
-| Mercator | Auctum   | Commerce       |
-| Civitas  | Auctum   | Governance     |
-| Imperium | Auctum   | Statecraft     |
-| Inventum | Auctum   | Innovation     |
-| Historia | Hibernum | Memory         |
-| Veritas  | Hibernum | Truth          |
-| Ratio    | Hibernum | Reason         |
-| Nova     | Hibernum | Renewal        |
+| Month    | Season   | Theme          | Abbr |
+| -------- | -------- | -------------- | ---- |
+| Scriptum | Vernum   | Writing        | SC   |
+| Numeris  | Vernum   | Mathematics    | NU   |
+| Archivum | Vernum   | Record Keeping | AR   |
+| Inquiry  | Vernum   | Investigation  | IN   |
+| Alchemia | Solis    | Transformation | AL   |
+| Astralis | Solis    | Astronomy      | AS   |
+| Magister | Solis    | Scholarship    | MA   |
+| Ordinis  | Solis    | Order          | OR   |
+| Mercator | Auctum   | Commerce       | ME   |
+| Civitas  | Auctum   | Governance     | CI   |
+| Imperium | Auctum   | Statecraft     | IM   |
+| Inventum | Auctum   | Innovation     | IV   |
+| Historia | Hibernum | Memory         | HI   |
+| Veritas  | Hibernum | Truth          | VE   |
+| Ratio    | Hibernum | Reason         | RA   |
+| Nova     | Hibernum | Renewal        | NO   |
 
 | Day     | Name        | Principle             |
 | ------- | ----------- | --------------------- |
