@@ -2,7 +2,7 @@
 tags:
   - vichon_order
 ---
-The Vichon Order is a semi-autonomous nation bordered on the north by the [[Anachreon (nation)|Anachreon]] and the south by the [[Iron Consortium]]. It considers itself an independent nation and people and is neutral in the current conflict. However, it's heavily influenced by the Anachreon, who would like to claim it as a part of their rule as a human nation.
+The Vichon Order is a semi-autonomous nation bordered to the north by the [[Anachreon (nation)|Anachreon]] and the south by the [[Iron Consortium]]. It considers itself an independent nation and people and is neutral in the current conflict. However, it's heavily influenced by the Anachreon, who would like to claim it as a part of their rule as a human nation.
 
 ## History
 The Vichon Order partially formed during the [[docs/Events/Historical/Banner Wars|Banner Wars]], ruled by a single king. However, a few decades ago the king lost power and control of the nation fractured between various lords. Although they sometimes work together to protect the Order's identity as an independent, there too much conflict between the lords for them to present a truly united front against the Anachreon or Iron Consortium.

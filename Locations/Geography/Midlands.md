@@ -1,1 +1,0 @@
-The Midlands are a region in the west coast of [[Anchara]], between the [[Thalassian Coast]] and

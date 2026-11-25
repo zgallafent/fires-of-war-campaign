@@ -1,0 +1,3 @@
+Gaelica is a geographical region in the [[Anachreon (nation)|Anachreon]], located in the northern part of the [[Thalassian Coast]]. It consists of the peninsula north of the mountains extending out into the [[Vestmar]] and is further divided into the [[Thalassian Highlands]] in the north, which contains its only notable city [[Thalesborough]], and the Gaelican Range in the south.
+
+Many small kingdoms once existed in Gaelica, but in the beginning of the [[Banner Wars]] they fought with each other until all of the kingdoms collapsed, leaving it at an unincorporated region until the Anachreon annexed it in approximately 220•[[Nova Aetas|NA]].

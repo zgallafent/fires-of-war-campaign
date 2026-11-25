@@ -11,6 +11,8 @@ According to [[Ghilain]], Ghithgod actually comes from [[Bourgand]].
 
 Has a deaf sister named [[Nadar]].
 
+Between 11•CI and 11•IM•463•NA, Ghithgod [[11 - Moments in Mystara|worked]] under the orc captain [[N'duka]]. Before he left, N'duka and his crew gave him a tattoo that marked Ghithgod as a member among them, in honor of both his work and [[13 - The Sahuagin Strike|fighting]] with them against a band of [[Sahuagin|sahuagin]].
+
 ## Player Relationship
 ### Affection
 **5/6**

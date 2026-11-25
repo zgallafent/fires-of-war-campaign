@@ -2,7 +2,7 @@
 tags:
   - mystara
 ---
-The Thalassian Coast is a coastal region in northern [[Anchara]]. It encompasses the oceanfront west of [[Vestmar]] from [[Thaleborough]] to [[Straag Bohumin]].
+The Thalassian Coast is a coastal region in northwest [[Anchara]]. It encompasses the oceanfront west of [[Vestmar]] from [[Thalesborough]] to [[Straag Bohumin]].
 
 ## Culture
 The earliest known settlement in the region is [[Mystara]], which has existed since the [[Izure|Izure empire]]. The [[Kithenir]] joined the city after the empire's fall. The combination of these two groups has defined the Thalassian Coast as a culture region through the current day. 

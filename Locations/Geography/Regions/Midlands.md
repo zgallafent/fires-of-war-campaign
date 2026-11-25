@@ -1,0 +1,5 @@
+The Midlands is the flat region of land that makes up the river basin of the [[Aldan River|Aldan]], extending south to where the river feeds into the [[Mornewelle River|Mornwelle]] river. It's bordered by the [[Lynocean Plain]] to the south and west and the [[Cindervale]] to the north. The boundaries of the region are poorly defined, as while it's nominally a geographical designation, it's mostly defined by the contested borders of the [[Anachreon (nation)|Anachreon]], the [[Vichon Order]], and the [[Iron Consortium]].
+
+The Midlands generally constant of broad, rolling hills of grass, with occasional big knotty trees like oak, beech, or elm.
+
+Because the Midlands are a highly contested region, there's little law enforcement in the region. This has resulted in it becoming a haven for outlaws.

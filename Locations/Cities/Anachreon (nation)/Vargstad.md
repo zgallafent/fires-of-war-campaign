@@ -1,0 +1,1 @@
+Vargstad is an [[Anachreon (nation)|Anachreonan]] city on the southern coast of [[Skjoldhelm]].
