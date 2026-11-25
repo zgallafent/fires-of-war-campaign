@@ -1,0 +1,1 @@
+The Thalassian Highlands, also known as the Thalish Highlands, is the hilly region at the northern end of [[Gaelica]]. [[Thalesborough]] is the only notable town in the region.

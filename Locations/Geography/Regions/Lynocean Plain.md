@@ -1,0 +1,1 @@
+The Lynocean Plain is a broad flatland in the [[Mornewelle River]] watershed. It extends west from the river out to the [[Vichon Range]], bordered to the south by the mountains of the [[Iron Consortium]], the north by the [[Cindervale|Cindervale Mountains]] and [[Thalassian Highlands]], and the east by the [[Midlands]].

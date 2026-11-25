@@ -1,0 +1,1 @@
+The Creon Coast is a coastal region on the north edge of [[Anchara]]. It is bordered to the west by the [[Vestmar]] and [[Thalesborough]], and to the west by the [[Odera River]] and the [[Nordsae]].

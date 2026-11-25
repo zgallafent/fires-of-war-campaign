@@ -9,7 +9,7 @@ Growing up in an Anachreon city afforded Hazelmere an opportunity to receive a c
 
 Hazelmere met many elves growing up in Wicksbend, with it being the closest Anachreon city to the [[Vidanya|Vidanyan]] border at the time. He became friends with [[Lissandra]], a young elven woman that traveled with the trade caravans through the city. She taught him the basics of the el
 
-Hazelmere's mentor at the academy was [[Erik Skjoldson]], a cultural exchange professor from [[Skjoldhelm]]. Hazelmere studied under him for eight years before Professor Skjoldson was given a teaching position at the [[Arcaneum]]. Hazelmere gained his love of archaemagology from him.
+Hazelmere's mentor at the academy was [[Erik Skjoldson]], a professor from [[Skjoldhelm]]. Hazelmere studied under him for eight years before Professor Skjoldson was given a teaching position at the [[Arcaneum]]. Hazelmere gained his love of archaemagology from him.
 
  A year before he would finish at the academy, the Vidanya attacked Wicksbend. Hazelmere was expected to help with the preparations, but wasn't allowed to fight because he hadn't graduated from the academy yet. Bolren, however, was conscripted into the Anachreon's forces to defend the city. The battle is now known as the Sacking of Wicksbend. While Bolren survived the battle, he was captured by the Vidanya when they took the city. He and all of the other surviving soldiers were hung from the academy walls as part of the Vidanya's desecration of the academy.
 

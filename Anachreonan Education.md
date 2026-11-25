@@ -1,0 +1,41 @@
+---
+tags:
+  - anachreon
+  - arcaneum
+---
+Education in the [[Anachreon (nation)|Anachreon]] is a state-managed system, guided by the principle that every person in the nation needs to be education for the good of the nation. The first 15 years are compulsory, which includes five years of basics. For the next 10 years, the student will be assigned trades or academy. Those that completed academy have the option of continuing on with 10 years of high academy. 
+
+# History
+The roots of academics in the Anachreon come from the vestiges of the [[Izure|Izure empire]]. Several Izuri libraries and academies survived the empire's [[Fall of the Izure|collapse]] and existed for some time as independent entities. The most notable of these was the [[Arcaneum]], which quickly developed into a full city state. As the Aranchreon was born from and grew out of the Arcaneum, the academy maintained a strong influence over the nation throughout its history.
+
+The Arcaneum ceased operatung as the head of state at the beginning of the [[Banner Wars]], when [[Eadric Vearon van Merrowe]] established himself as the Throne.  However, the [[Council of Eight]] has continued holding most of the legislative power in the realm. It has continued to preserve its power by making education for all citizens mandatory, which funnels influential individuals into the ranks of the Arcaneum. As a part of this, education is fully funded by the state.
+
+The [[Collegium of Veilwrights and Mantlers]] manages education throughout the Arcaneum. This includes establishing new schools, hiring teachers, designing the curriculum, and enforcing enrollment. However, the [[Council of Eight]] regularly involves itself in education to preserve the balance of power between the guilds.
+# Basics
+All citizens in the Anachreon are required to complete five years of basics, which begins at the age of five starting on 01•Vernum••[[Nova Aetas|NA]]. Each term lasts 19 weeks, with classes being held every day except Prima each week. The last two weeka of each four-month term are a vacation. Students in their final year of basics have assessments in the first week of each term vacation and don't have a final Hibernum term.
+
+The basics curriculum includes Anachreonan Common, mathematics, physical education, ideology and morality, introductory magics, and natural sciences (including history, geography, and biology). This is typically structured with practical work on Secunda and Quarta and the theoretical on Tertia and Quinta. Because the curriculum is entirely proscribed by the state, it has a strong focus on the virtues of the Anachreonan empire and superiority of arcane magic.
+## Basic Assessments
+The final year of basics focus on the basic assessments, which take place in the first week after each of the Vernum, Solis, and Auctum terms. The Vernum assessment covers on the first two years of basics and the Solis assessment covers the third and fourth years. In the Auctum assessment, students are tested on the fifth year of basics and also their aptitude for further education.
+
+These three assessments determine whether students qualify to continue on into academics or trades. The results are announced on 1•Ratio••.
+# Trades
+10 years of trades education is mandatory for everyone in the Anachreon starting at ten years of age, unless they qualified for academy. The focus of trades education is to prepare students for their future as productive members of the Anachreon. The first five years continue the schedule of basics, with four days of class each week and 18-week terms beginning on 1•Vernum••, and the curriculum continues on with Anachreon Common, physical education, ideology and morality, and natural sciences. Trades drops the study of introductory magics in favor of practicable career studies. This consists of hands-on introductions to various professions governed by the eight guild of the Council, typically hosted by a rotation of members from those guilds.
+
+In the final five years of trades, students only attend on Secunda and Tertia or on Quarta and Quinta. The other days of the week, they're expected to begin working part-time in a guild-sponsored profession they selected with the help of an advisory teacher. While they're not required to continue working that profession after basics, most students choose to do so. The curriculum of these final years is conducted by the related guild (or the closest match for those in family professions) and focused on that field, such as agricultural sciences taught by the [[Tribunal of the Golden Sheaf]] or chemistry taught by the [[Conclave of the Amberglass]].
+# Academy
+In order to attend academy, students must be among the top performing cohort in their basics examination. Those that qualify have the option to continue on into trades instead, but very few choose to do so. Academy begins on 1•Verum•• and spans 10 years. Each year consists of two terms of 37 weeks, with one additional week at the end for assessments. Students in academy study at [[Basilique#Academy Cindervale|Academy Cindervale]], or [[Lumier#Academy Cryss|Academy Cryss]].
+
+The curriculum continues on with Anachreon Common, magic, and natural sciences, but is split into two tracks: theoretic and empiric. Students in the empiric track focus on the application of their studies, particularly as a profession with the Arcaneum. Students that graduate from the empiric track are expected to move on to become state officials, teachers, mages, or military officers. The theoretic track, on the other hand, is largely a preparatory period for high academy. Students are expected to become comfortable with the foundations of a wide array of fields as part of a well-rounded education, so that they have a starting basis for specialization in the future.
+
+The assessments at the end of each term test how well students are performing in each track. Underperformance can result in demotion from theoretic to empiric, or from empiric to trades. Additionally, exceptional students in empiric can be promoted to theoretic. Any student that graduates from academy as part of the theoretic track can continue on to the Arcaneum, also known as high academy.
+# Inequality
+While education is mandated by law in the Anachreon, the reality of a growing empire is that many people don't live close enough to a basics school for attendance to be feasible. The Collegium of Veilwrights and Mantlers are constantly working to establish new basics and trades school throughout the empire, and the presence of a school is generally when a town is considered to be truly incorporated into the empire.
+
+The laws around basics and trades education make some special exemptions for those that don't live close to a school. While education is still mandatory, it can be conducted by parents or a local appointed teacher, instead of by an official Collegium member. Additionally, students are not required to work in a profession government by a guild if there are no nearby guild halls.
+## Itinerants
+With the Anachreon's focus on expanding the Arcaneum, the Collegium of Veilwrights and Mantlers sends out assessors known as itinerants. They regularly visit each town and village in the empire every two years, testing all children ages eight or nine. Those that do well, they take back to Basilique or Lumier to complete basics and then attend academy.
+
+Families are always told that the children going away are being given the great honor of being trained as a mage. Generally, these children will never return to their hometowns, as the Anachreon will have them enlisted in the military or to serve as the local mage in a town far from their home. The Anachreon does this to break up local loyalties on favor of loyalty to the Throne and Council, but many families will attempt to hide their childrens' talents or even hide their children altogether to avoid having them taken off to an academy.
+
+The practice of itinerant professors has caused many small villages to decline or altogether disappear, as the most talented individuals in each generation are taken off to study in an academy.
